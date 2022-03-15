@@ -1,1 +1,2 @@
-
+! FDA-2830
+@@||cdn.jsdelivr.net/npm/just-detect-adblock@*/dist/bundle.umd.min.js|

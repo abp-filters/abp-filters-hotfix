@@ -1220,3 +1220,5 @@
 @@||wellgroomedapparel.com^$script,xmlhttprequest
 ! FDA-2994
 @@||fundingchoicesmessages.google.com^$script,xmlhttprequest,subdocument
+! https://gitlab.com/eyeo/adblockplus/abc/adblockpluscore/-/issues/224#note_1111575321
+tv.vg.no#$#abort-on-property-write __AB__

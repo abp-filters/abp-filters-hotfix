@@ -1,6 +1,6 @@
 ! FDA-2830
 @@||cdn.jsdelivr.net/npm/just-detect-adblock@*/dist/bundle.umd.min.js|
-! FDA-2915 / FDA-2984 / FD-3135
+! FDA-2915 / FDA-2984 / FD-3135 / FD-3401
 @@||2znp09oa.com^$script,xmlhttprequest
 @@||4jnzhl0d0.com^$script,xmlhttprequest
 @@||5mcwl.pw^$script,xmlhttprequest
@@ -1218,5 +1218,7 @@
 @@||pointlesspocket.com^$script,xmlhttprequest
 @@||rhetoricalveil.com^$script,xmlhttprequest
 @@||wellgroomedapparel.com^$script,xmlhttprequest
+@@||tediousticket.com^$script,xmlhttprequest
+@@||vengefulgrass.com^$script,xmlhttprequest
 ! FDA-2994
 @@||fundingchoicesmessages.google.com^$script,xmlhttprequest,subdocument

@@ -2,6 +2,8 @@
 @@||cdn.jsdelivr.net/npm/just-detect-adblock@*/dist/bundle.umd.min.js|
 ! FDA-2915 / FDA-2984 / FD-3135 / FD-3401 / FD-3422 / FD-3573 / FD-3660
 @@||stretchsquirrel.com^$script,xmlhttprequest
+@@||unbecominglamp.com^$script,xmlhttprequest
+@@||restrainstorm.com^$script,xmlhttprequest
 @@||spookyskate.com^$script,xmlhttprequest
 @@||2znp09oa.com^$script,xmlhttprequest
 @@||4jnzhl0d0.com^$script,xmlhttprequest

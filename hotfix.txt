@@ -1,6 +1,7 @@
 ! FDA-2830
 @@||cdn.jsdelivr.net/npm/just-detect-adblock@*/dist/bundle.umd.min.js|
 ! FDA-2915 / FDA-2984 / FD-3135 / FD-3401 / FD-3422 / FD-3573 / FD-3660 / FD-3709
+@@||vengefulgrass.com^$script,xmlhttprequest
 @@||painstakingpickle.com^$script,xmlhttprequest
 @@||pocketfaucet.com^$script,xmlhttprequest
 @@||stretchsquirrel.com^$script,xmlhttprequest

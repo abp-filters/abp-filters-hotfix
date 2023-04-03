@@ -1,6 +1,10 @@
 ! FDA-2830
 @@||cdn.jsdelivr.net/npm/just-detect-adblock@*/dist/bundle.umd.min.js|
-! FDA-2915 / FDA-2984 / FD-3135 / FD-3401 / FD-3422 / FD-3573 / FD-3660 / FD-3709
+! FDA-2915 / FDA-2984 / FD-3135 / FD-3401 / FD-3422 / FD-3573 / FD-3660 / FD-3709 / FD-3782
+@@||averageactivity.com^$script,xmlhttprequest
+@@||virtualvincent.com^$script,xmlhttprequest
+@@||cushiondrum.com^$script,xmlhttprequest
+@@||combativecar.com^$script,xmlhttprequest
 @@||vengefulgrass.com^$script,xmlhttprequest
 @@||painstakingpickle.com^$script,xmlhttprequest
 @@||pocketfaucet.com^$script,xmlhttprequest

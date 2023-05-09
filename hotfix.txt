@@ -1241,5 +1241,3 @@
 @@||vengefulgrass.com^$script,xmlhttprequest
 ! FDA-2994
 @@||fundingchoicesmessages.google.com^$script,xmlhttprequest,subdocument
-! FDA-3830
-chewy.com#@#[class^="kib-"]:-abp-has(.kib-product-sponsor)

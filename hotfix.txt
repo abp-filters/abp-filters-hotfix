@@ -583,6 +583,7 @@
 @@||gondolagnome.com^$script,xmlhttprequest
 @@||gorgeousground.com^$script,xmlhttprequest
 @@||gracefulsock.com^$script,xmlhttprequest
+@@||grandfatherguitar.com^$script,xmlhttprequest
 @@||grandioseguide.com^$script,xmlhttprequest
 @@||grandmotherunit.com^$script,xmlhttprequest
 @@||grayreceipt.com^$script,xmlhttprequest

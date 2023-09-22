@@ -1383,3 +1383,5 @@
 @@||zlp6s.pw^$script,xmlhttprequest
 ! FDA-2994
 @@||fundingchoicesmessages.google.com^$script,xmlhttprequest,subdocument
+! FD-4039
+@@||dzen.ru/partner2/mailru-morda|$xmlhttprequest,domain=mail.ru

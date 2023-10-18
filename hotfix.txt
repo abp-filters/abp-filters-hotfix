@@ -1,7 +1,6 @@
 ! FDA-2830
 @@||cdn.jsdelivr.net/npm/just-detect-adblock@*/dist/bundle.umd.min.js|
 ! FD-3979
-@@||discreetquarter.com^$script,xmlhttprequest
 @@||2znp09oa.com^$script,xmlhttprequest
 @@||4jnzhl0d0.com^$script,xmlhttprequest
 @@||5mcwl.pw^$script,xmlhttprequest
@@ -219,6 +218,7 @@
 @@||chewcoat.com^$script,xmlhttprequest
 @@||chickensstation.com^$script,xmlhttprequest
 @@||childlikecook.com^$script,xmlhttprequest
+@@||childlikecrowd.com^$script,xmlhttprequest
 @@||childlikeform.com^$script,xmlhttprequest
 @@||chinsnakes.com^$script,xmlhttprequest
 @@||chunkycactus.com^$script,xmlhttprequest
@@ -277,14 +277,17 @@
 @@||courageousbaby.com^$script,xmlhttprequest
 @@||coverapparatus.com^$script,xmlhttprequest
 @@||cowscrayon.com^$script,xmlhttprequest
+@@||cozyhillside.com^$script,xmlhttprequest
 @@||crabbychin.com^$script,xmlhttprequest
 @@||crafthenry.com^$script,xmlhttprequest
 @@||cratecamera.com^$script,xmlhttprequest
 @@||crawlclocks.com^$script,xmlhttprequest
 @@||crayoncompetition.com^$script,xmlhttprequest
 @@||creditcreature.com^$script,xmlhttprequest
+@@||crimsonmeadow.com^$script,xmlhttprequest
 @@||critictruck.com^$script,xmlhttprequest
 @@||crowdedmass.com^$script,xmlhttprequest
+@@||crystalboulevard.com^$script,xmlhttprequest
 @@||cubchannel.com^$script,xmlhttprequest
 @@||culturedcrayon.com^$script,xmlhttprequest
 @@||cumbersomecake.com^$script,xmlhttprequest
@@ -331,6 +334,7 @@
 @@||defectivesun.com^$script,xmlhttprequest
 @@||defiantrice.com^$script,xmlhttprequest
 @@||delegatediscussion.com^$script,xmlhttprequest
+@@||delicatecascade.com^$script,xmlhttprequest
 @@||delicateducks.com^$script,xmlhttprequest
 @@||delightfulhour.com^$script,xmlhttprequest
 @@||desertedbreath.com^$script,xmlhttprequest
@@ -348,6 +352,7 @@
 @@||diplomahawaii.com^$script,xmlhttprequest
 @@||direfuldesk.com^$script,xmlhttprequest
 @@||discreetfield.com^$script,xmlhttprequest
+@@||discreetquarter.com^$script,xmlhttprequest
 @@||dispensablestranger.com^$script,xmlhttprequest
 @@||distancefinger.com^$script,xmlhttprequest
 @@||distinctday.com^$script,xmlhttprequest
@@ -418,6 +423,7 @@
 @@||erraticreaction.com^$script,xmlhttprequest
 @@||evaluateend.com^$script,xmlhttprequest
 @@||evanescentedge.com^$script,xmlhttprequest
+@@||eventexistence.com^$script,xmlhttprequest
 @@||exchangedetail.com^$script,xmlhttprequest
 @@||exclusivebrass.com^$script,xmlhttprequest
 @@||expansioneggnog.com^$script,xmlhttprequest
@@ -626,6 +632,7 @@
 @@||jamexistence.com^$script,xmlhttprequest
 @@||joblessdrum.com^$script,xmlhttprequest
 @@||joyoussurprise.com^$script,xmlhttprequest
+@@||jubilantcanyon.com^$script,xmlhttprequest
 @@||justicejudo.com^$script,xmlhttprequest
 @@||k54nw.pw^$script,xmlhttprequest
 @@||kitesquirrel.com^$script,xmlhttprequest
@@ -1075,6 +1082,7 @@
 @@||soaprange.com^$script,xmlhttprequest
 @@||soapsmoke.com^$script,xmlhttprequest
 @@||soggysponge.com^$script,xmlhttprequest
+@@||solarislabyrinth.com^$script,xmlhttprequest
 @@||somberattack.com^$script,xmlhttprequest
 @@||somberscarecrow.com^$script,xmlhttprequest
 @@||sombersea.com^$script,xmlhttprequest
@@ -1355,6 +1363,7 @@
 @@||whisperingbadge.com^$script,xmlhttprequest
 @@||whisperingcrib.com^$script,xmlhttprequest
 @@||whisperingflesh.com^$script,xmlhttprequest
+@@||whisperingsummit.com^$script,xmlhttprequest
 @@||whispermeeting.com^$script,xmlhttprequest
 @@||wigglygeese.com^$script,xmlhttprequest
 @@||wigglyindustry.com^$script,xmlhttprequest

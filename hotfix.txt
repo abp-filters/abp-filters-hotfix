@@ -6,6 +6,7 @@
 @@||5mcwl.pw^$script,xmlhttprequest
 @@||6ldu6qa.com^$script,xmlhttprequest
 @@||82o9v830.com^$script,xmlhttprequest
+@@||abackafterthought.com^$script,xmlhttprequest
 @@||abackchain.com^$script,xmlhttprequest
 @@||abacksoda.com^$script,xmlhttprequest
 @@||abandonedaction.com^$script,xmlhttprequest
@@ -33,6 +34,7 @@
 @@||actoramusement.com^$script,xmlhttprequest
 @@||actuallysheep.com^$script,xmlhttprequest
 @@||actuallysnake.com^$script,xmlhttprequest
+@@||actuallything.com^$script,xmlhttprequest
 @@||adamantsnail.com^$script,xmlhttprequest
 @@||additionant.com^$script,xmlhttprequest
 @@||adorableanger.com^$script,xmlhttprequest
@@ -63,6 +65,7 @@
 @@||ambiguousquilt.com^$script,xmlhttprequest
 @@||ambitiousagreement.com^$script,xmlhttprequest
 @@||ambitiousanimal.com^$script,xmlhttprequest
+@@||amuckafternoon.com^$script,xmlhttprequest
 @@||amusementmorning.com^$script,xmlhttprequest
 @@||amusinggirls.com^$script,xmlhttprequest
 @@||ancientact.com^$script,xmlhttprequest
@@ -100,6 +103,7 @@
 @@||awesomeattack.com^$script,xmlhttprequest
 @@||awzbijw.com^$script,xmlhttprequest
 @@||axiomaticalley.com^$script,xmlhttprequest
+@@||axiomaticanger.com^$script,xmlhttprequest
 @@||badgeboat.com^$script,xmlhttprequest
 @@||bagbeam.com^$script,xmlhttprequest
 @@||balancemailbox.com^$script,xmlhttprequest
@@ -127,6 +131,7 @@
 @@||bewilderedbattle.com^$script,xmlhttprequest
 @@||bewilderedblade.com^$script,xmlhttprequest
 @@||bhcumsc.com^$script,xmlhttprequest
+@@||bikesboard.com^$script,xmlhttprequest
 @@||billowybead.com^$script,xmlhttprequest
 @@||bitterbear.com^$script,xmlhttprequest
 @@||bizarrebaseball.com^$script,xmlhttprequest
@@ -206,6 +211,7 @@
 @@||cautiouscredit.com^$script,xmlhttprequest
 @@||cavecurtain.com^$script,xmlhttprequest
 @@||chairscrack.com^$script,xmlhttprequest
+@@||chairsdonkey.com^$script,xmlhttprequest
 @@||channelcamp.com^$script,xmlhttprequest
 @@||charmingcough.com^$script,xmlhttprequest
 @@||charmingplate.com^$script,xmlhttprequest
@@ -249,7 +255,9 @@
 @@||comfortablecheese.com^$script,xmlhttprequest
 @@||commonalmanac.com^$script,xmlhttprequest
 @@||commonswing.com^$script,xmlhttprequest
+@@||comparereaction.com^$script,xmlhttprequest
 @@||competitionbeetle.com^$script,xmlhttprequest
+@@||compiledoctor.com^$script,xmlhttprequest
 @@||completecabbage.com^$script,xmlhttprequest
 @@||complextoad.com^$script,xmlhttprequest
 @@||conceptualizereading.com^$script,xmlhttprequest
@@ -263,6 +271,7 @@
 @@||consciouscheese.com^$script,xmlhttprequest
 @@||consciousdirt.com^$script,xmlhttprequest
 @@||consistpotato.com^$script,xmlhttprequest
+@@||controlcola.com^$script,xmlhttprequest
 @@||controlswim.com^$script,xmlhttprequest
 @@||cookchalk.com^$script,xmlhttprequest
 @@||coordinatedbedroom.com^$script,xmlhttprequest
@@ -290,6 +299,7 @@
 @@||crystalboulevard.com^$script,xmlhttprequest
 @@||cubchannel.com^$script,xmlhttprequest
 @@||culturedcrayon.com^$script,xmlhttprequest
+@@||culturedfeather.com^$script,xmlhttprequest
 @@||cumbersomecake.com^$script,xmlhttprequest
 @@||cumbersomecar.com^$script,xmlhttprequest
 @@||cumbersomecloud.com^$script,xmlhttprequest
@@ -336,7 +346,9 @@
 @@||delegatediscussion.com^$script,xmlhttprequest
 @@||delicatecascade.com^$script,xmlhttprequest
 @@||delicateducks.com^$script,xmlhttprequest
+@@||deliciousducks.com^$script,xmlhttprequest
 @@||delightfulhour.com^$script,xmlhttprequest
+@@||dependenttrip.com^$script,xmlhttprequest
 @@||desertedbreath.com^$script,xmlhttprequest
 @@||desertedrat.com^$script,xmlhttprequest
 @@||desirebucket.com^$script,xmlhttprequest
@@ -349,6 +361,7 @@
 @@||detectdiscovery.com^$script,xmlhttprequest
 @@||differentcoat.com^$script,xmlhttprequest
 @@||difficultfog.com^$script,xmlhttprequest
+@@||dinnerquartz.com^$script,xmlhttprequest
 @@||diplomahawaii.com^$script,xmlhttprequest
 @@||direfuldesk.com^$script,xmlhttprequest
 @@||discreetfield.com^$script,xmlhttprequest
@@ -396,6 +409,7 @@
 @@||efficaciouscactus.com^$script,xmlhttprequest
 @@||ejyymghi.com^$script,xmlhttprequest
 @@||elasticchange.com^$script,xmlhttprequest
+@@||elasticducks.com^$script,xmlhttprequest
 @@||elderlyinsect.com^$script,xmlhttprequest
 @@||elderlyscissors.com^$script,xmlhttprequest
 @@||elderlytown.com^$script,xmlhttprequest
@@ -424,10 +438,12 @@
 @@||evaluateend.com^$script,xmlhttprequest
 @@||evanescentedge.com^$script,xmlhttprequest
 @@||eventexistence.com^$script,xmlhttprequest
+@@||exampleshake.com^$script,xmlhttprequest
 @@||exchangedetail.com^$script,xmlhttprequest
 @@||exclusivebrass.com^$script,xmlhttprequest
 @@||expansioneggnog.com^$script,xmlhttprequest
 @@||experienceeggs.com^$script,xmlhttprequest
+@@||extractobservation.com^$script,xmlhttprequest
 @@||exuberanteyes.com^$script,xmlhttprequest
 @@||exuberantsoda.com^$script,xmlhttprequest
 @@||exultantdrop.com^$script,xmlhttprequest
@@ -461,7 +477,10 @@
 @@||fifthborder.com^$script,xmlhttprequest
 @@||finalizeforce.com^$script,xmlhttprequest
 @@||firstfrogs.com^$script,xmlhttprequest
+@@||firsttexture.com^$script,xmlhttprequest
+@@||fixedfold.com^$script,xmlhttprequest
 @@||flakyfeast.com^$script,xmlhttprequest
+@@||flameuncle.com^$script,xmlhttprequest
 @@||flimsycircle.com^$script,xmlhttprequest
 @@||flimsythought.com^$script,xmlhttprequest
 @@||flockflame.com^$script,xmlhttprequest
@@ -480,6 +499,7 @@
 @@||frailflock.com^$script,xmlhttprequest
 @@||frailfruit.com^$script,xmlhttprequest
 @@||frailoffer.com^$script,xmlhttprequest
+@@||framebanana.com^$script,xmlhttprequest
 @@||franticcarpenter.com^$script,xmlhttprequest
 @@||frantictrail.com^$script,xmlhttprequest
 @@||fretfulfurniture.com^$script,xmlhttprequest
@@ -490,6 +510,7 @@
 @@||fumblingform.com^$script,xmlhttprequest
 @@||fumblingselection.com^$script,xmlhttprequest
 @@||functionalcrown.com^$script,xmlhttprequest
+@@||functionalfeather.com^$script,xmlhttprequest
 @@||funnyairplane.com^$script,xmlhttprequest
 @@||furryfork.com^$script,xmlhttprequest
 @@||furryhorses.com^$script,xmlhttprequest
@@ -497,6 +518,7 @@
 @@||futuristicfairies.com^$script,xmlhttprequest
 @@||futuristicfifth.com^$script,xmlhttprequest
 @@||futuristicfold.com^$script,xmlhttprequest
+@@||futuristicframe.com^$script,xmlhttprequest
 @@||fuzzybasketball.com^$script,xmlhttprequest
 @@||fuzzyerror.com^$script,xmlhttprequest
 @@||fuzzyflavor.com^$script,xmlhttprequest
@@ -555,6 +577,7 @@
 @@||hardtofindmilk.com^$script,xmlhttprequest
 @@||hatefulrequest.com^$script,xmlhttprequest
 @@||hauntlist.com^$script,xmlhttprequest
+@@||headydegree.com^$script,xmlhttprequest
 @@||headyhook.com^$script,xmlhttprequest
 @@||healflowers.com^$script,xmlhttprequest
 @@||hearinglizards.com^$script,xmlhttprequest
@@ -620,6 +643,7 @@
 @@||intelligentscissors.com^$script,xmlhttprequest
 @@||interestingpot.com^$script,xmlhttprequest
 @@||interestsmoke.com^$script,xmlhttprequest
+@@||internalcondition.com^$script,xmlhttprequest
 @@||internalsink.com^$script,xmlhttprequest
 @@||inventionpassenger.com^$script,xmlhttprequest
 @@||investigatepin.com^$script,xmlhttprequest
@@ -661,7 +685,9 @@
 @@||livelumber.com^$script,xmlhttprequest
 @@||livelylaugh.com^$script,xmlhttprequest
 @@||livelyreward.com^$script,xmlhttprequest
+@@||livingsleet.com^$script,xmlhttprequest
 @@||lizardslaugh.com^$script,xmlhttprequest
+@@||loadsurprise.com^$script,xmlhttprequest
 @@||longinglettuce.com^$script,xmlhttprequest
 @@||looseloaf.com^$script,xmlhttprequest
 @@||lorenzourban.com^$script,xmlhttprequest
@@ -715,12 +741,14 @@
 @@||minuterhythm.com^$script,xmlhttprequest
 @@||miscreantmine.com^$script,xmlhttprequest
 @@||miscreantmoon.com^$script,xmlhttprequest
+@@||mittencattle.com^$script,xmlhttprequest
 @@||mixedreading.com^$script,xmlhttprequest
 @@||modifyeyes.com^$script,xmlhttprequest
 @@||modularmental.com^$script,xmlhttprequest
 @@||moldyicicle.com^$script,xmlhttprequest
 @@||motionlessbag.com^$script,xmlhttprequest
 @@||motionlessbelief.com^$script,xmlhttprequest
+@@||motionlessmeeting.com^$script,xmlhttprequest
 @@||mountainouspear.com^$script,xmlhttprequest
 @@||movemeal.com^$script,xmlhttprequest
 @@||mowfruit.com^$script,xmlhttprequest
@@ -731,6 +759,7 @@
 @@||muterange.com^$script,xmlhttprequest
 @@||mysteriousmonth.com^$script,xmlhttprequest
 @@||nappyattack.com^$script,xmlhttprequest
+@@||nappyneck.com^$script,xmlhttprequest
 @@||necessarywax.com^$script,xmlhttprequest
 @@||needyneedle.com^$script,xmlhttprequest
 @@||negotiatetime.com^$script,xmlhttprequest
@@ -751,15 +780,19 @@
 @@||nothingunit.com^$script,xmlhttprequest
 @@||nulldiscussion.com^$script,xmlhttprequest
 @@||nullnorth.com^$script,xmlhttprequest
+@@||numberlessring.com^$script,xmlhttprequest
 @@||numerousnest.com^$script,xmlhttprequest
+@@||nutritiousbean.com^$script,xmlhttprequest
 @@||nuttyorganization.com^$script,xmlhttprequest
 @@||oafishobservation.com^$script,xmlhttprequest
 @@||obscenesidewalk.com^$script,xmlhttprequest
 @@||observantice.com^$script,xmlhttprequest
+@@||oldfashionedoffer.com^$script,xmlhttprequest
 @@||omniscientfeeling.com^$script,xmlhttprequest
 @@||omniscientspark.com^$script,xmlhttprequest
 @@||operationchicken.com^$script,xmlhttprequest
 @@||operationkettle.com^$script,xmlhttprequest
+@@||operationnail.com^$script,xmlhttprequest
 @@||opinionsurprise.com^$script,xmlhttprequest
 @@||oppositeoperation.com^$script,xmlhttprequest
 @@||oppositeparcel.com^$script,xmlhttprequest
@@ -782,6 +815,7 @@
 @@||panickypancake.com^$script,xmlhttprequest
 @@||panoramicbutter.com^$script,xmlhttprequest
 @@||paradoxfactor.com^$script,xmlhttprequest
+@@||parallelbulb.com^$script,xmlhttprequest
 @@||parcelcreature.com^$script,xmlhttprequest
 @@||parchedangle.com^$script,xmlhttprequest
 @@||parchedsofa.com^$script,xmlhttprequest
@@ -816,6 +850,7 @@
 @@||placidperson.com^$script,xmlhttprequest
 @@||plainplayground.com^$script,xmlhttprequest
 @@||plainrequest.com^$script,xmlhttprequest
+@@||planebasin.com^$script,xmlhttprequest
 @@||planesorder.com^$script,xmlhttprequest
 @@||plantdigestion.com^$script,xmlhttprequest
 @@||plantpotato.com^$script,xmlhttprequest
@@ -830,12 +865,14 @@
 @@||pocketsonic.com^$script,xmlhttprequest
 @@||podiumpresto.com^$script,xmlhttprequest
 @@||poeticpackage.com^$script,xmlhttprequest
+@@||pointdigestion.com^$script,xmlhttprequest
 @@||pointlesspocket.com^$script,xmlhttprequest
 @@||pointlessrifle.com^$script,xmlhttprequest
 @@||poisedpig.com^$script,xmlhttprequest
 @@||politegoldfish.com^$script,xmlhttprequest
 @@||politeplanes.com^$script,xmlhttprequest
 @@||popcornfood.com^$script,xmlhttprequest
+@@||popplantation.com^$script,xmlhttprequest
 @@||possessivebucket.com^$script,xmlhttprequest
 @@||possibleboats.com^$script,xmlhttprequest
 @@||powderprofit.com^$script,xmlhttprequest
@@ -851,7 +888,10 @@
 @@||pricklyjourney.com^$script,xmlhttprequest
 @@||pricklypies.com^$script,xmlhttprequest
 @@||pricklyplastic.com^$script,xmlhttprequest
+@@||pricklypollution.com^$script,xmlhttprequest
 @@||printerplasma.com^$script,xmlhttprequest
+@@||probablepartner.com^$script,xmlhttprequest
+@@||processplantation.com^$script,xmlhttprequest
 @@||producecopy.com^$script,xmlhttprequest
 @@||productivepear.com^$script,xmlhttprequest
 @@||profitrumour.com^$script,xmlhttprequest
@@ -861,6 +901,7 @@
 @@||proudprose.com^$script,xmlhttprequest
 @@||psychedelicarithmetic.com^$script,xmlhttprequest
 @@||psychedelicchess.com^$script,xmlhttprequest
+@@||publicsofa.com^$script,xmlhttprequest
 @@||puffyloss.com^$script,xmlhttprequest
 @@||puffypaste.com^$script,xmlhttprequest
 @@||puffypull.com^$script,xmlhttprequest
@@ -878,6 +919,7 @@
 @@||quicksandear.com^$script,xmlhttprequest
 @@||quietknowledge.com^$script,xmlhttprequest
 @@||quillkick.com^$script,xmlhttprequest
+@@||quirkysugar.com^$script,xmlhttprequest
 @@||quizzicalzephyr.com^$script,xmlhttprequest
 @@||rabbitbreath.com^$script,xmlhttprequest
 @@||rabbitrifle.com^$script,xmlhttprequest
@@ -900,6 +942,7 @@
 @@||readingopera.com^$script,xmlhttprequest
 @@||readymoon.com^$script,xmlhttprequest
 @@||readysnails.com^$script,xmlhttprequest
+@@||realizedoor.com^$script,xmlhttprequest
 @@||realizerecess.com^$script,xmlhttprequest
 @@||realizevacation.com^$script,xmlhttprequest
 @@||rebelhen.com^$script,xmlhttprequest
@@ -918,6 +961,8 @@
 @@||regulatesleet.com^$script,xmlhttprequest
 @@||rehabilitatereason.com^$script,xmlhttprequest
 @@||rejectfairies.com^$script,xmlhttprequest
+@@||relationrest.com^$script,xmlhttprequest
+@@||rememberdiscussion.com^$script,xmlhttprequest
 @@||repeatsweater.com^$script,xmlhttprequest
 @@||replaceroute.com^$script,xmlhttprequest
 @@||representativebat.com^$script,xmlhttprequest
@@ -932,6 +977,7 @@
 @@||rhetoricalveil.com^$script,xmlhttprequest
 @@||rhymezebra.com^$script,xmlhttprequest
 @@||rhythmmoney.com^$script,xmlhttprequest
+@@||rhythmrule.com^$script,xmlhttprequest
 @@||richreceipt.com^$script,xmlhttprequest
 @@||richstring.com^$script,xmlhttprequest
 @@||righteouscrayon.com^$script,xmlhttprequest
@@ -941,9 +987,11 @@
 @@||ringplayground.com^$script,xmlhttprequest
 @@||ringsrecord.com^$script,xmlhttprequest
 @@||ritzykey.com^$script,xmlhttprequest
+@@||ritzyrepresentative.com^$script,xmlhttprequest
 @@||ritzyveil.com^$script,xmlhttprequest
 @@||robustbelieve.com^$script,xmlhttprequest
 @@||rodeopolice.com^$script,xmlhttprequest
+@@||rollconnection.com^$script,xmlhttprequest
 @@||roofrelation.com^$script,xmlhttprequest
 @@||roomyreading.com^$script,xmlhttprequest
 @@||roseincome.com^$script,xmlhttprequest
@@ -980,6 +1028,7 @@
 @@||scarfsmash.com^$script,xmlhttprequest
 @@||scarfthought.com^$script,xmlhttprequest
 @@||scatteredheat.com^$script,xmlhttprequest
+@@||scatteredquiver.com^$script,xmlhttprequest
 @@||scatteredstream.com^$script,xmlhttprequest
 @@||scientificshirt.com^$script,xmlhttprequest
 @@||scientificsneeze.com^$script,xmlhttprequest
@@ -1010,6 +1059,7 @@
 @@||sensorsmile.com^$script,xmlhttprequest
 @@||separateshow.com^$script,xmlhttprequest
 @@||separatesilver.com^$script,xmlhttprequest
+@@||serendipityecho.com^$script,xmlhttprequest
 @@||serioussuit.com^$script,xmlhttprequest
 @@||serpentshampoo.com^$script,xmlhttprequest
 @@||shaggytank.com^$script,xmlhttprequest
@@ -1137,6 +1187,7 @@
 @@||squealingturn.com^$script,xmlhttprequest
 @@||squeamishspot.com^$script,xmlhttprequest
 @@||squirrelhands.com^$script,xmlhttprequest
+@@||stakingbasket.com^$script,xmlhttprequest
 @@||stakingscrew.com^$script,xmlhttprequest
 @@||stakingslope.com^$script,xmlhttprequest
 @@||stakingsmile.com^$script,xmlhttprequest
@@ -1166,6 +1217,7 @@
 @@||stiffstem.com^$script,xmlhttprequest
 @@||stingsquirrel.com^$script,xmlhttprequest
 @@||stockingsneeze.com^$script,xmlhttprequest
+@@||stopstomach.com^$script,xmlhttprequest
 @@||storescissors.com^$script,xmlhttprequest
 @@||storeslope.com^$script,xmlhttprequest
 @@||storesurprise.com^$script,xmlhttprequest
@@ -1179,6 +1231,7 @@
 @@||stretchsneeze.com^$script,xmlhttprequest
 @@||stretchsquirrel.com^$script,xmlhttprequest
 @@||stringsmile.com^$script,xmlhttprequest
+@@||stripedbat.com^$script,xmlhttprequest
 @@||stripedburst.com^$script,xmlhttprequest
 @@||strivesidewalk.com^$script,xmlhttprequest
 @@||strivesquirrel.com^$script,xmlhttprequest
@@ -1213,6 +1266,7 @@
 @@||swellstocking.com^$script,xmlhttprequest
 @@||swelteringsmile.com^$script,xmlhttprequest
 @@||swimslope.com^$script,xmlhttprequest
+@@||swingslip.com^$script,xmlhttprequest
 @@||swordgoose.com^$script,xmlhttprequest
 @@||symbolizebeast.com^$script,xmlhttprequest
 @@||synonymousrule.com^$script,xmlhttprequest
@@ -1228,6 +1282,7 @@
 @@||tastesnake.com^$script,xmlhttprequest
 @@||tawdryson.com^$script,xmlhttprequest
 @@||tdzvm.pw^$script,xmlhttprequest
+@@||tearfulglass.com^$script,xmlhttprequest
 @@||tediousticket.com^$script,xmlhttprequest
 @@||tedioustooth.com^$script,xmlhttprequest
 @@||teenytinycellar.com^$script,xmlhttprequest
@@ -1255,6 +1310,7 @@
 @@||thinkablefloor.com^$script,xmlhttprequest
 @@||thinkablerice.com^$script,xmlhttprequest
 @@||thinkabletrick.com^$script,xmlhttprequest
+@@||thinkitten.com^$script,xmlhttprequest
 @@||thirdrespect.com^$script,xmlhttprequest
 @@||thirstylettuce.com^$script,xmlhttprequest
 @@||thirstyswing.com^$script,xmlhttprequest
@@ -1281,6 +1337,7 @@
 @@||torpidtongue.com^$script,xmlhttprequest
 @@||torpidtoothpaste.com^$script,xmlhttprequest
 @@||toweringrun.com^$script,xmlhttprequest
+@@||tradetooth.com^$script,xmlhttprequest
 @@||tranquilside.com^$script,xmlhttprequest
 @@||translateoatmeal.com^$script,xmlhttprequest
 @@||trappush.com^$script,xmlhttprequest
@@ -1292,9 +1349,11 @@
 @@||tremendoustreatment.com^$script,xmlhttprequest
 @@||trickycelery.com^$script,xmlhttprequest
 @@||tritebadge.com^$script,xmlhttprequest
+@@||tritethunder.com^$script,xmlhttprequest
 @@||troubledtail.com^$script,xmlhttprequest
 @@||troubleshade.com^$script,xmlhttprequest
 @@||truckstomatoes.com^$script,xmlhttprequest
+@@||truculentrate.com^$script,xmlhttprequest
 @@||tumblebirds.com^$script,xmlhttprequest
 @@||tutorthing.com^$script,xmlhttprequest
 @@||typicalairplane.com^$script,xmlhttprequest
@@ -1326,18 +1385,23 @@
 @@||unwieldyhealth.com^$script,xmlhttprequest
 @@||unwieldyplastic.com^$script,xmlhttprequest
 @@||unwrittenspot.com^$script,xmlhttprequest
+@@||uppitytime.com^$script,xmlhttprequest
 @@||usedexample.com^$script,xmlhttprequest
 @@||uselesslumber.com^$script,xmlhttprequest
 @@||uttermosthobbies.com^$script,xmlhttprequest
 @@||vanfireworks.com^$script,xmlhttprequest
+@@||vanishmemory.com^$script,xmlhttprequest
 @@||vengefulgrass.com^$script,xmlhttprequest
+@@||venomousvessel.com^$script,xmlhttprequest
 @@||venusgloria.com^$script,xmlhttprequest
 @@||verdantanswer.com^$script,xmlhttprequest
 @@||verifyvegetable.com^$script,xmlhttprequest
 @@||verseballs.com^$script,xmlhttprequest
+@@||vibrantsundown.com^$script,xmlhttprequest
 @@||virgoplato.com^$script,xmlhttprequest
 @@||virtualvincent.com^$script,xmlhttprequest
 @@||vivaciousveil.com^$script,xmlhttprequest
+@@||voicelessvein.com^$script,xmlhttprequest
 @@||voicevegetable.com^$script,xmlhttprequest
 @@||volatileprofit.com^$script,xmlhttprequest
 @@||volatilerainstorm.com^$script,xmlhttprequest
@@ -1350,6 +1414,7 @@
 @@||warmquiver.com^$script,xmlhttprequest
 @@||warnwing.com^$script,xmlhttprequest
 @@||waryfog.com^$script,xmlhttprequest
+@@||washbanana.com^$script,xmlhttprequest
 @@||wateryvan.com^$script,xmlhttprequest
 @@||wearbasin.com^$script,xmlhttprequest
 @@||wearywater.com^$script,xmlhttprequest
@@ -1371,6 +1436,7 @@
 @@||wildernesscamera.com^$script,xmlhttprequest
 @@||wirecomic.com^$script,xmlhttprequest
 @@||wistfulflight.com^$script,xmlhttprequest
+@@||wittypopcorn.com^$script,xmlhttprequest
 @@||womanear.com^$script,xmlhttprequest
 @@||workableachiever.com^$script,xmlhttprequest
 @@||workoperation.com^$script,xmlhttprequest

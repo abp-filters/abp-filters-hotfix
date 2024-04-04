@@ -1,4 +1,2 @@
 ! FDA-2994
 @@||fundingchoicesmessages.google.com^$script,xmlhttprequest,subdocument
-! FD-5355
-kleinanzeigen.de#@#[data-adid]

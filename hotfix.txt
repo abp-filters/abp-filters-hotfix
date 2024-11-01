@@ -2,3 +2,5 @@
 @@||fundingchoicesmessages.google.com^$script,xmlhttprequest,subdocument
 ! FD-6566
 howdyho.net,howdyho.pro#@#:not(my-obnaruzhili-blokirovshchik)
+! FD-7076
+howdyho.net,howdyho.pro#@#:not(my-obnaruzhili-adblock)

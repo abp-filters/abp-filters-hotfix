@@ -6,3 +6,4 @@ howdyho.net,howdyho.pro#@#:not(my-obnaruzhili-blokirovshchik)
 howdyho.net,howdyho.pro#@#:not(my-obnaruzhili-adblock)
 ! FD-7186
 howdyho.net,howdyho.pro#@#html[lang="ru"] :not(my-obnaruzhili-adblock)
+howdyho.net,howdyho.pro#@#html[lang="ru"] :not(my-obnaruzhili-adbl)

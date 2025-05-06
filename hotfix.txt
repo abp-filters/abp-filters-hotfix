@@ -18,6 +18,3 @@ mediamarkt.de#@#.sc-72448dee-1.bLECT:-abp-contains(Gesponsert)
 mail.ru#@#.mailru-visibility-check
 mail.ru#@#.tgb-wrapper
 mail.ru#@#[href^="https://dzen.ru"]
-! FD-7710
-@@://mail.ru/$csp=connect-src 'self' *.imgsmail.ru *.mail.ru ok.ru vk.com data: blob:
-mail.ru#@#[href*="https://dzen.ru"]

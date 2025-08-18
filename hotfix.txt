@@ -20,3 +20,6 @@ mail.ru#@#.tgb-wrapper
 mail.ru#@#[href^="https://dzen.ru"]
 @@://mail.ru/$csp=connect-src 'self' *.imgsmail.ru *.mail.ru ok.ru vk.com data: blob:
 mail.ru#@#[href*="https://dzen.ru"]
+! aliexpress blocking filters breakage
+@@||alicdn.com^
+@@||aliexpress-media.com^

@@ -10,10 +10,12 @@ howdyho.net,howdyho.pro#@#html[lang="ru"] :not(my-obnaruzhili-adbl)
 ! FD-7283
 mediamarkt.de#@#li[data-index-number]:-abp-contains(Gesponsert)
 mediamarkt.de#@#.sc-72448dee-1.bLECT:-abp-contains(Gesponsert)
-! FD-7601 | FD-7710
+! FD-7601 | FD-7710 | FD-8053
+@@||dzen.ru/a/$csp=script-src 'unsafe-inline' 'unsafe-eval' data: static.dzeninfra.ru/react/ static.dzeninfra.ru/s3/zen-lib/ yandex.ru/ads/ vk.com/dist/ vk.com/js/api/videoplayer.js vk.com/dist/public/api/
 @@||ad.mail.ru/adp/?_SITEZONE=15&json=1^$xmlhttprequest,domain=mail.ru
 @@||dzen.ru/api/web/v*/$domain=mail.ru
 @@||dzen.ru/zen-partner/mailru-morda$domain=mail.ru
+vk.com/dist/ vk.com/js/api/videoplayer.js vk.com/dist/public/api/
 @@||ms.dzen.ru/?rn=$domain=mail.ru
 mail.ru#@#.mailru-visibility-check
 mail.ru#@#.tgb-wrapper
@@ -23,3 +25,4 @@ mail.ru#@#[href*="https://dzen.ru"]
 ! aliexpress blocking filters breakage
 @@||alicdn.com^
 @@||aliexpress-media.com^
+

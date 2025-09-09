@@ -15,14 +15,12 @@ mediamarkt.de#@#.sc-72448dee-1.bLECT:-abp-contains(Gesponsert)
 @@||ad.mail.ru/adp/?_SITEZONE=15&json=1^$xmlhttprequest,domain=mail.ru
 @@||dzen.ru/api/web/v*/$domain=mail.ru
 @@||dzen.ru/zen-partner/mailru-morda$domain=mail.ru
-vk.com/dist/ vk.com/js/api/videoplayer.js vk.com/dist/public/api/
 @@||ms.dzen.ru/?rn=$domain=mail.ru
 mail.ru#@#.mailru-visibility-check
 mail.ru#@#.tgb-wrapper
 mail.ru#@#[href^="https://dzen.ru"]
 @@://mail.ru/$csp=connect-src 'self' *.imgsmail.ru *.mail.ru ok.ru vk.com data: blob:
 mail.ru#@#[href*="https://dzen.ru"]
-! aliexpress blocking filters breakage
-@@||alicdn.com^
-@@||aliexpress-media.com^
+
+
 
